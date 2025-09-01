@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.example.reactnativehelloworld'
+    namespace 'com.benkile.reactnativehelloworld'
     defaultConfig {
-        applicationId 'com.example.reactnativehelloworld'
+        applicationId 'com.benkile.reactnativehelloworld'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

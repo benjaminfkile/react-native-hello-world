@@ -14,10 +14,11 @@
   "dependencies": {
     "expo": "~53.0.22",
     "expo-constants": "~17.1.7",
+    "expo-dev-client": "~5.2.4",
     "expo-status-bar": "~2.2.3",
+    "native-camera-expo-plugin": "file:../native-camera-expo-plugin",
     "react": "19.0.0",
-    "react-native": "0.79.6",
-    "expo-dev-client": "~5.2.4"
+    "react-native": "0.79.6"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

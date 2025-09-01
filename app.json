@@ -16,10 +16,10 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "bundleIdentifier": "com.example.reactnativereactnativehelloworld"
+      "bundleIdentifier": "com.benkile.reactnativereactnativehelloworld"
     },
     "android": {
-      "package": "com.example.reactnativereactnativehelloworld"
+      "package": "com.benkile.reactnativereactnativehelloworld"
     }
   }
 }

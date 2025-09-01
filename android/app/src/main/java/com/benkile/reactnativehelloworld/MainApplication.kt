@@ -1,4 +1,4 @@
-package com.example.reactnativehelloworld
+package com.example.reactnativereactnativereactnativereactnativereactnativereactnativereactnativereactnativereactnativehelloworld
 
 import android.app.Application
 import android.content.res.Configuration
